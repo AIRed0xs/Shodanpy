@@ -1,0 +1,5 @@
+https://shodan.readthedocs.io/en/latest/
+
+shoadan queries
+https://github.com/jakejarvis/awesome-shodan-queries
+https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/
